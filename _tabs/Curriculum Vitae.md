@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-{% include assets/cv.html %}
+{% include cv.html %}
