@@ -1,11 +1,11 @@
 #! /bin/bash
 
-LAST_SIZE=$(du -bsc)
+LAST_SIZE=$(du -sbc | grep -o '^[0-9]\+' | head -n 1)
 echo "Last size: $LAST_SIZE"
 
 git pull
 
-NEW_SIZE=$(du -bsc)
+NEW_SIZE=$(du -sbc | grep -o '^[0-9]\+' | head -n 1)
 
 echo "New size: $NEW_SIZE"
 
