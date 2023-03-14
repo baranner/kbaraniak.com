@@ -6,4 +6,4 @@ git pull
 
 docker start jekyll_docker
 
-docker exec -w "/srv/jekyll" jekyll_docker jekyll serve
+docker exec -itw "/srv/jekyll" jekyll_docker jekyll serve
