@@ -9,8 +9,7 @@ NEW_SIZE=$(du -sbc | grep -o '^[0-9]\+' | head -n 1)
 
 echo "New size: $NEW_SIZE"
 
-if [ $NEW_SIZE = $LAST_SIZE ]; then
-        echo "Change detected"
-        #./jekyll_build.sh
+if [ $NEW_SIZE != $LAST_SIZE ]; then
+        ./jekyll_build.sh
 fi
 
