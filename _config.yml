@@ -190,6 +190,9 @@ exclude:
   - node_modules
   - package*.json
   - docker/*
+  - blog_updater.sh
+  - jekyll_build.sh
+  - jekyll_serve.sh
 
 jekyll-archives:
   enabled: [categories, tags]

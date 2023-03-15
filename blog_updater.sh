@@ -11,5 +11,6 @@ echo "New size: $NEW_SIZE"
 
 if [ $NEW_SIZE != $LAST_SIZE ]; then
         ./jekyll_build.sh
+	scp ./* manitu:kbaraniak.com/
 fi
 
