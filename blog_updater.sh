@@ -15,4 +15,3 @@ if [ $NEW_SIZE != $LAST_SIZE ]; then
 	tar czf - * | ssh manitu "cd kbaraniak.com && tar xzf -"
 	python3 /home/kev/telegram_messager/send_telegram_message.py breekon Kevin "Blog updated :)"
 fi
-
