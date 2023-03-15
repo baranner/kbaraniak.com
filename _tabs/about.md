@@ -13,7 +13,7 @@ order: 4
 
 ### Testing Engineer ADAS/AD
 
-Kevin Baraniak from Aachen, Germany worked as a master car mechanic before studying at FH Aachen University of Applied Sciences to get a Bachelor Degree in Automotive Engineering. Currently he works on testing and validating autonomous driving systems at FEV.io GmbH
+Kevin Baraniak from Aachen, Germany worked as a master car mechanic before studying at FH Aachen University of Applied Sciences to get a Bachelor Degree in Automotive Engineering. Currently he tests and validates autonomous driving systems at FEV.io GmbH
 
 ## Work
 
