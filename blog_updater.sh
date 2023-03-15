@@ -13,5 +13,6 @@ if [ $NEW_SIZE != $LAST_SIZE ]; then
         ./jekyll_build.sh
 	cd _site
 	tar czf - * | ssh manitu "cd kbaraniak.com && tar xvzf -"
+	py ../../telegram_messager/send_telegram_message.py breekon Kevin "Blog updated :)"
 fi
 
