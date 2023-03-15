@@ -5,9 +5,9 @@ order: 4
 
 ---
 
-# Curriculum Vitae
+![Desktop View](/assets/img/resume_pic.jpg){: .right }{: width="271" height="350" }
 
-![Desktop View](/assets/img/resume_pic.jpg){: .right }
+# Curriculum Vitae
 
 ## Kevin Baraniak
 
@@ -28,7 +28,7 @@ Kevin Baraniak from Aachen, Germany worked as a master car mechanic before study
   *Testing Engineer ADAS/AD* @ [FEV Europe GmbH](https://www.fev.com/)
 
 - **Apr 2022 - present day**  
-  *Testing Engineer ADAS/AD* @ [FEV.io GMBH](https://www.fev.io/)
+  *Testing Engineer ADAS/AD* @ [FEV.io GmbH](https://www.fev.io/)
 
 ## Volunteer
 
@@ -66,4 +66,4 @@ Kevin Baraniak from Aachen, Germany worked as a master car mechanic before study
 - **Sports**
   - Running
   - Biking
-  - Fistball
+  - [Fistball](https://web.archive.org/web/20131219100223im_/http://faustball.de/images/faustbal.gif)
