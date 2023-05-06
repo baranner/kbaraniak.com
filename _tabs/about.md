@@ -55,7 +55,7 @@ Kevin Baraniak from Aachen, Germany worked as a master car mechanic before study
   - **Programming**
     - Linux
     - Home Automation
-    - 3D-Printers / CNC-Machnines
+    - 3D-Printers / CNC-Machines
   - **Making**
     - 3D Construction/Modeling
       - Autodesk Inventor
